@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="322-3229796_mary-martinez-sorted-fj-71-wrong-cross-black.png" />
+    <None Remove="ab67616d0000b273b212bf172e2e72a3582ebbda.jpg" />
+    <None Remove="depositphotos_166051452-stock-illustration-isolated-pause-button.jpg" />
+    <None Remove="desktop-wallpaper-apple-music-black-apple-music-curated-playlist-artworks-itunes-music-icon.jpg" />
+    <None Remove="download.png" />
+    <None Remove="images.png" />
+    <None Remove="kelvin-lutan-r6dHVMLWw4M-unsplash.jpg" />
+    <None Remove="Pause-Button.png" />
+    <None Remove="pausebutton.png" />
+    <None Remove="play-and-pause-button-icon-media-player-control-icon-vector.jpg" />
+    <None Remove="png-clipart-music-computer-icons-free-music-music-teal-music-download.png" />
+    <None Remove="png-transparent-music-app-icon-mobile-launcher-icon-music-symbol-icon-pink-pink-music-thumbnail.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NAudio" Version="2.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="322-3229796_mary-martinez-sorted-fj-71-wrong-cross-black.png" />
+    <Resource Include="ab67616d0000b273b212bf172e2e72a3582ebbda.jpg" />
+    <Resource Include="depositphotos_166051452-stock-illustration-isolated-pause-button.jpg" />
+    <Resource Include="desktop-wallpaper-apple-music-black-apple-music-curated-playlist-artworks-itunes-music-icon.jpg" />
+    <Resource Include="download.png" />
+    <Resource Include="images.png" />
+    <Resource Include="kelvin-lutan-r6dHVMLWw4M-unsplash.jpg" />
+    <Resource Include="Pause-Button.png" />
+    <Resource Include="pausebutton.png" />
+    <Resource Include="play-and-pause-button-icon-media-player-control-icon-vector.jpg" />
+    <Resource Include="png-clipart-music-computer-icons-free-music-music-teal-music-download.png" />
+    <Resource Include="png-transparent-music-app-icon-mobile-launcher-icon-music-symbol-icon-pink-pink-music-thumbnail.png" />
+  </ItemGroup>
+
+</Project>

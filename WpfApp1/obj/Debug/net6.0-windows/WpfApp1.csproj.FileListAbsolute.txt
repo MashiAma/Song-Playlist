@@ -1,0 +1,79 @@
+D:\C Exam\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\C Exam\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\C Exam\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\C Exam\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\C Exam\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\C Exam\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+D:\C Exam\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\C Exam\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\C Exam\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\C Exam\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\C Exam\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+D:\C Exam\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\NAudio.dll
+D:\C Exam\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\NAudio.Asio.dll
+D:\C Exam\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\NAudio.Core.dll
+D:\C Exam\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\NAudio.Midi.dll
+D:\C Exam\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+D:\C Exam\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+D:\C Exam\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+D:\C Exam\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+D:\GitHub\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\GitHub\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\GitHub\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\GitHub\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\GitHub\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\GitHub\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\NAudio.dll
+D:\GitHub\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\NAudio.Asio.dll
+D:\GitHub\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\NAudio.Core.dll
+D:\GitHub\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\NAudio.Midi.dll
+D:\GitHub\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+D:\GitHub\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+D:\GitHub\PlaylistX\WpfApp1\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\GitHub\PlaylistX\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
